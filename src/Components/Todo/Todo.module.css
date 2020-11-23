@@ -1,0 +1,33 @@
+.Todo {
+    margin: 0.5rem;
+    background: #E8E8E8;
+    font-size: 1.5rem;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 1s ease;
+    
+   border: 3px solid #382F9C;
+  }
+  .Todo li {
+    flex: 1;
+  }
+  .TrashBtn,
+  .CompleteBtn {
+    background: #382F9C;
+    color: white;
+    border: none;
+    padding: 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  .CompleteBtn{
+    background: #39C084;
+    
+  }
+  .completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+

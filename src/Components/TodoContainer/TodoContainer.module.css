@@ -1,0 +1,26 @@
+.HomePageMainContainer{
+    width: 100%;
+    padding: 45px;
+   
+}
+.MainContent{
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-right: auto;
+    text-align: center;
+    background: #E8E8E8;
+    width: 100%;
+    max-width: 990px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 5px 5px #ccc;
+    overflow: hidden;
+}
+.Header{
+    text-align: center;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-top: 20px;
+}

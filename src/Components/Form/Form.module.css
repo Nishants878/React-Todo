@@ -1,0 +1,24 @@
+.FormContainer{
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form input,
+form button {
+  padding: 0.5rem;
+  font-size: 2rem;
+ border: none;
+  background:  #382F9C;
+  color: #ffffff;
+}
+form input{
+    outline: none;
+  }
+  form button {
+    color: #ffffff;
+    background:  #39C084;
+   
+    cursor: pointer;
+    
+  }

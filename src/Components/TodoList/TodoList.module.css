@@ -1,0 +1,11 @@
+.TodoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 320px;
+    overflow-y: scroll;
+}
+.TodoList{
+    min-width: 60%;
+    list-style: none;
+}
